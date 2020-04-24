@@ -20,6 +20,7 @@ conda env create -f environment.yml
 conda env create -f environment.r.yml
 
 jupyter nbextension enable --py --sys-prefix lineup_widget
+jupyter nbextension enable --py --sys-prefix upsetjs_jupyter_widget
 ```
 
 To use real datasets, create a data folder:

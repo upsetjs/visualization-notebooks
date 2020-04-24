@@ -18,3 +18,4 @@ dependencies:
   - pip
   - pip:
     - lineup_widget
+    - upsetjs_jupyter_widget
